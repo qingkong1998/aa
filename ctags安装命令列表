@@ -1,0 +1,1572 @@
+    1  pwd
+    2  ls
+    3  exit
+    4  2
+    5  vi
+    6  sudo apt install powerline fonts-powerline
+    7  sudo apt install zsh-theme-powerlevel9k
+    8  echo "source /usr/share/powerlevel9k/powerlevel9k.zsh-theme" >> ~/.zshrc
+    9  cd /
+   10  cd 
+   11  cd k-vim
+   12  ls
+   13  echo "source /usr/share/powerlevel9k/powerlevel9k.zsh-theme" >> ~/.zshrcsudo apt install zsh-syntax-highlighting
+   14  echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc
+   15  ls
+   16  sudo apt install git
+   17  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+   18  mkdir git-test && cd git-test
+   19  git init
+   20  cd 
+   21  ls
+   22  vi .zshrc
+   23  sudo apt install powerline fonts-powerline
+   24  vi .zshrc
+   25  ls
+   26  vi .zshrc
+   27  sudo apt-get install zsh-syntax-highlighting
+   28  sudo apt install powerline fonts-powerline
+   29  sudo apt install zsh-theme-powerlevel9k
+   30  ls
+   31  sudo apt install git
+   32  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+   33  mkdir git-test && cd git-test
+   34  git init
+   35  vi .zshrc
+   36  sudo apt-get install colored-man-pages 
+   37  sudo apt-get install colored-man-pages
+   38  vi .zshrc
+   39  man ls
+   40  vi .zshrc
+   41  sudo apt install fonts-powerline
+   42  source ~/.zshrc
+   43  man ls
+   44  man cat
+   45  vi .zshrc
+   46  :w
+   47  man ls
+   48  vi .zshrc
+   49  man ls
+   50  cd k-vim
+   51  ls
+   52  pwd
+   53  sh -x install.sh
+   54  man ls
+   55  vi .zshrc
+   56  source .zshrc
+   57  vi
+   58  terminator
+   59  ls
+   60  vi .zshrc
+   61  ls
+   62  gvim
+   63  ls
+   64  vi AppDelegate.swift
+   65  which ctags
+   66  ctags -R .
+   67  which exuberant-ctags
+   68  ctags -R .
+   69  ls
+   70  vi AppDelegate.swift
+   71  vi 
+   72  vo 
+   73  vi
+   74  gvim
+   75  vi
+   76  ls
+   77  vi AppDelegate.swift
+   78  vi 
+   79  vi
+   80  vi .zshrc
+   81  source .zshrc
+   82  vi .zshrc
+   83  source .zshrc
+   84  ls
+   85  vi .vimrc
+   86  vi /etc/vim/vimrc
+   87  cd /etc
+   88  ls
+   89  vi vim/vimrc
+   90  sudo vi /etc/vim/vimrc
+   91  vi /usr/share/vim/vimrc
+   92  vi
+   93  pwd
+   94  vi vim/vimrc
+   95  sudo vi /etc/vim/vimrc
+   96  cd 
+   97  sudo vi /usr/share/vim/vimrc
+   98  sudo vim /var/lib/locales/supported.d/local
+   99  sudo dpkg-reconfigure locales
+  100  sudo vi /etc/vim/vimrc
+  101  sudo dpkg-reconfigure locales
+  102  vi .vimrc
+  103  locale
+  104  sudo locale-gen zh_CN.GB18030
+  105  cat /usr/lib/locale
+  106  cd /usr/lib/locale
+  107  ls
+  108  cat C.UTF-8
+  109  cd 
+  110  sudo gedit /var/lib/locales/supported.d/loca
+  111  sudo locale-gen zh_CN.GB18030
+  112  sudo gedit /etc/environment
+  113  echo $LANG
+  114  locale -a
+  115  sudo apt install language-pack-zh-hans
+  116  vi .bashrc
+  117  sudo apt update
+  118  sudo apt upgrade
+  119  reboot
+  120  sudo apt-get update
+  121  sudo apt-get upgrade
+  122  ls
+  123  vi AppDelegate.swift
+  124  which ctags
+  125  sudo apt-get install ctags
+  126  sudo apt-get install exuberant-ctags
+  127  cd ctags
+  128  ./autogen.sh
+  129  ./configure --prefix=/usr/local --program-prefix=ex
+  130  sudo apt-get install automake
+  131  make
+  132  make install
+  133  sudo make install
+  134  which ctags
+  135  sudo apt-get install ctags
+  136  cd k-vim
+  137  sh -x install.sh
+  138  which ctags-exuberant
+  139  cd 
+  140  cd k-vim
+  141  ls
+  142  vi basic_vimrc
+  143  ls
+  144  vi ViewController.swift
+  145  cd
+  146  which ctags-exuberant
+  147  cd /usr/bin
+  148  ls
+  149  cd /usr/bin
+  150  mv ctags-exuberant ctags-exuberant.bak
+  151  sudo mv ctags-exuberant ctags-exuberant.bak
+  152  ls
+  153  whci ctags
+  154  which ctags
+  155  cp /usr/local/bin/ctags /usr/bin
+  156  sudo cp /usr/local/bin/ctags /usr/bin
+  157  ls
+  158  mv ctags-exuberant.bak ctags-exuberant
+  159  sudo mv ctags-exuberant.bak ctags-exuberant
+  160  sudo mv ctags-exuberant ctags-exuberant.bak
+  161  ls
+  162  vi vimrc.bundles
+  163  vi .
+  164  vi vimrc.bundles
+  165  ls
+  166  vi swift.ctags
+  167  ls
+  168  vi AppDelegate.swift
+  169  ls
+  170  vi swift.ctags
+  171  ls
+  172  vi ViewController.swift
+  173  ls
+  174  vi ViewController.swift
+  175  vi swift.ctags
+  176  vi ViewController.swift
+  177  ls
+  178  vi ViewController.swift
+  179  gvim .
+  180  vi ViewController.swift
+  181  gvim .
+  182  ls
+  183  vi ViewController.swift
+  184  cd /usr/bin
+  185  mv ctags-exuberant.bak ctags-exuberant
+  186  sudo mv ctags-exuberant.bak ctags-exuberant
+  187  cd /
+  188  cd
+  189  which ctags
+  190  cd ctags
+  191  make uninstall
+  192  sudo make uninstall
+  193  which ctags
+  194  sudo make uninstall
+  195  sudo apt-get install ctags
+  196  sudo rm-rf /usr/local/bin/ctags
+  197  sudo rm -rf /usr/local/bin/ctags
+  198  which ctags
+  199  sudo apt-get install ctags
+  200  cd
+  201  sudo rm -rf ctags
+  202  mv .ctags.d/swift.ctags ./.ctags
+  203  vi ViewController.swift
+  204  ctags-exuberant --version
+  205  sudo apt-get install ctags
+  206  which ctags
+  207  echo $PATH
+  208  cd k-vim
+  209  sh -x install.sh
+  210  cd
+  211  vi 
+  212  sudo apt autoremove
+  213  sudo apt autoclean
+  214  sudo apt-get autoclean
+  215  vi ViewController.swift
+  216  ls
+  217  vi AppDelegate.
+  218  cd
+  219  vi .ctags
+  220  cd k-vim
+  221  vi vimrc.bundles
+  222  ls
+  223  git status
+  224  git add -A
+  225  git status
+  226  git -commit -m"修改了ctags配置"
+  227  git commit -m"修改了ctags配置"
+  228  git push
+  229  vi vimrc.bundles
+  230  cd k-vim
+  231  vi vimrc.bundles
+  232  cd k-vim
+  233  sh -x install.sh
+  234  vi vimrc.bundles
+  235  git submodule update --init --recursive
+  236  python install.py --clang-completer --system-libclang 
+  237  vi ViewController.swift
+  238  cd /usr/bin
+  239  sudo mv ctags-exuberant ctags-exuberant.bak
+  240  cd
+  241  git clone https://github.com/universal-ctags/ctags.git
+  242  cd ctags
+  243  ./autogen.sh
+  244  ./configure --prefix=/usr/local 
+  245  make
+  246  sudo make installall
+  247  sudo make install
+  248  sudo make INSTALL=
+  249  which bash
+  250  sudo apt install zsh
+  251  sudo usermod -s /usr/bin/zsh $(whoami)
+  252  chsh -s /bin/bash
+  253  cd ctags
+  254  ./autogen.sh
+  255  ./configure --prefix=/usr/local 
+  256  make
+  257  sudo make install
+  258  vi .zshrc
+  259  ls
+  260  man ls
+  261  ls
+  262  vi ViewController.swift
+  263  ls
+  264  vi ViewController.swift
+  265  vi .vimrc
+  266  cd k-vim
+  267  ls
+  268  vi vimrc.bundles
+  269  ls
+  270  vi ViewController.swift
+  271  pwd
+  272  cd .ctags.d
+  273  ls
+  274  vi swift.ctags
+  275  ls
+  276  vi ViewController.swift
+  277  ls
+  278  cd k
+  279  cd k-vim
+  280  ls
+  281  vi vimrc.bundles
+  282  vi .vimrc
+  283  ls
+  284  cd k-vim
+  285  git status 
+  286  git add .
+  287  git status
+  288  git commit -m"修改了.vimrc和ctags配置"
+  289  git push
+  290  ls
+  291  vi swift.ctags
+  292  vi ViewController.swift
+  293  ls
+  294  vi ViewController.swift
+  295  ls
+  296  which ctags
+  297  echo $PATH
+  298  ctags --list-kinds
+  299  which ctags
+  300  cd /usr/local/bin/
+  301  ctags --list-kinds
+  302  vi ViewController.swift
+  303  cd 
+  304  vi .bashrc
+  305  ls
+  306  export PATH=~/swift-4.2-RELEASE-ubuntu18.04/usr/bin:${PATH}
+  307  vi .bashrc
+  308  swift --version
+  309  sudo apt-get install git
+  310  swift
+  311  sudo add-apt-repository ppa:linrunner/tlp
+  312  sudo apt update
+  313  sudo apt install tlp tlp-rdw
+  314  sudo tlp start
+  315  sudo add-apt-repository ppa:apt-fast/stable
+  316  sudo apt-get update
+  317  sudo apt-get install apt-fast\n\n
+  318  sudo apt-get update
+  319  sudo apt-get install apt-fast\n\n
+  320  sudo apt install preload
+  321  Sudo apt-get install preload
+  322  sudo apt-get install preload
+  323  sudo gedit /etc/sysctl.conf
+  324  sudo ubuntu-drivers autoinstall
+  325  sudo lshw -c video
+  326  lspci | grep VGA
+  327  sudo dpkg -i intel-graphics-update-tool_2.0.2_amd64.deb
+  328  sudo apt-get install tweak
+  329  tweak
+  330  sudo apt-get autoclean
+  331  sudo apt-get autoremove
+  332  ls
+  333  ls -al
+  334  chmod 755 qt-opensource-linux-x64-5.11.2.run
+  335  ./qt-opensource-linux-x64-5.11.2.run
+  336  sudo apt-get install ubuntu-tweak
+  337  sudo apt-get install tweak
+  338  tweak
+  339  ./qt-opensource-linux-x64-5.11.2.run
+  340  sudo apt-get install Gnome Tweaks
+  341  sudo -i
+  342  sudo apt-get update
+  343  sudo apt-get upgrade
+  344  sudo apt-get dist-upgrade
+  345  sudo apt-get install update-manager-core
+  346  sudo do-release-upgrade -d
+  347  sudo apt-get install update-manager-core 
+  348  sudo do-release-upgrade -d
+  349  sudo add-apt-repository ppa:ubuntukylin-members/ukui
+  350  sudo apt-get update
+  351  sudo do-release-upgrade -d
+  352  sudo apt-get dist-upgrade
+  353  sudo add-apt-repository ppa:ubuntukylin-members/ukui\n
+  354  sudo apt-get update
+  355  sudo apt-get upgrade
+  356  sudo ./qt-opensource-linux-x64-5.11.2.run
+  357  sudo apt-get install update-manager-core 
+  358  sudo do-release-upgrade -d
+  359  gnome-tweaks
+  360  sudo apt-get install gnome-tweak-tool
+  361  sudo add-apt-repository ppa:noobslab/icons
+  362  sudo mv OSX-Arc-Shadow /usr/share/themes/
+  363  unity-tweak-tool
+  364  sudo apt-get install gnome-tweak-tool
+  365  unity-tweak-tool
+  366  sudo apt-get install notify-osd
+  367  sudo apt-get install unity-tweak-tool
+  368  unity-tweak-tool
+  369  gnome-tweaks
+  370  git config --global oh-my-zsh.hide-status 1
+  371  man ls
+  372  gnome-tweaks
+  373  sudo apt-get install ibus
+  374  sudo apt-get install build-essential
+  375  sudo apt-get install libgl1-mesa-dev
+  376  sudo apt-get install libglu1-mesa-dev
+  377  sudo apt-get install freeglut3-dev
+  378  sudo apt-get install build-essential
+  379  sudo apt-get install libgl1-mesa-dev
+  380  sudo apt-get install libglu1-mesa-dev
+  381  sudo apt-get install libglut-dev
+  382  sudo apt-get install libgl1-mesa-devsudo apt-get install libglut-dev
+  383  sudo apt-get install freeglut3-dev
+  384  sudo apt-get install build-essential
+  385  sudo apt-get install libgl1-mesa-dev
+  386  sudo apt-get install libglu1-mesa-dev
+  387  libglu1-mesa-dev 已经是最新版 (9.0.0-2.1build1)。\n
+  388  sudo apt-get install libglut-dev
+  389  sudo apt-get install freeglut3-dev
+  390  vi test.c
+  391  sudo apt-get update
+  392  git config --add oh-my-zsh.hide-status 1
+  393  man ls
+  394  vi .vimrc
+  395  vi .zshrc
+  396  sudo apt-get reinstall chrome
+  397  sudo apt-get install chrome
+  398  ls
+  399  dpkg -i google-chrome-stable_current_amd64.deb
+  400  sudo dpkg -i intel-graphics-update-tool_2.0.2_amd64.deb
+  401  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  402  sudo apt-get upgrade
+  403  sudo apt-get update
+  404  ls
+  405  udo add-apt-repository universe
+  406  sudo add-apt-repository universe
+  407  sudo apt install gnome-tweak-tool
+  408  gnome-tweaks
+  409  vi test.c
+  410  sudo apt-get remove tlp-rdw
+  411  sudo apt-get remove apt-fast
+  412  sudo apt autoremove
+  413  sudo apt autoclean
+  414  sudo apt autoremove preload
+  415  sudo apt-get install Linux-i686
+  416  sudo apt-get install Linux-k7
+  417  sudo apt-get update && sudo apt-get upgrade 
+  418  sudo vim /etc/sysctl.conf
+  419  sudo  tlp-rdw stop
+  420  sudo apt-get update && sudo apt-get upgrade 
+  421  sudo apt install tlp-rdw
+  422  tlp start
+  423  sudo tlp start
+  424  sudo apt-get install zsh
+  425  sudo usermod -s /bin/zsh username
+  426  sudo usermod -s /bin/zsh qingkong
+  427  chsh -s /bin/zsh
+  428  ls
+  429  man ls
+  430  cat /etc/shells
+  431  chsh -s /bin/zsh qingkong
+  432  vi .zshrc
+  433  source .zshrc
+  434  ls
+  435  sudo apt-get upgrade
+  436  wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+  437  vi test.c
+  438  touch test.cc
+  439  open test.cc
+  440  gedit test.cc
+  441  rm test.cc
+  442  gcc -o test test.c -lGL -lGLU -lglut
+  443  gcc -o test tesc.c -lGL -lGLU -lglut
+  444  sudo apt-get install build-essential libgl1-mesa-dev
+  445  sudo apt-get install freeglut3-dev
+  446  sudo apt-get install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev
+  447  sudo apt-get install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev
+  448  gnome-tweaks
+  449  cd /home/qingkong/下载/OSX-Arc-Darker-White
+  450  ls
+  451  sudo cp -r OSX-Arc-Darker /usr/share/themes
+  452  sudo cp -r OSX-Arc-White /usr/share/themes
+  453  logout
+  454  cd /opt/Qt
+  455  ls
+  456  tree 
+  457  tree |  >>  ~/QT.tex
+  458  sudo apt-get install vim
+  459  sudo apt-get install vim-doc vim-scripts
+  460  sudo apt-get install perlsgml libtemplate-perl ispell
+  461  cd k-vim
+  462  sh -x install.sh
+  463  cd k-vim
+  464  ls
+  465  cat install.sh
+  466  git submodule update --init --recursive
+  467  cd bundle
+  468  git submodule update --init --recursive
+  469  ls
+  470  cd YouCompleteMe
+  471  git submodule update --init --recursive
+  472  python install.py --clang-completer --system-libclang   
+  473  gnome-tweaks
+  474  cd k-vim
+  475  cd bundle/YouCompleteMe
+  476  python install.py --clang-completer --system-libclang   
+  477  cd k-vim/YouCompleteMe
+  478  ls
+  479  pwd
+  480  cd k-vim
+  481  cd bundle
+  482  ls
+  483  cd YouCompleteMe
+  484  ls
+  485  git submodule update --init --recursive
+  486  python install.py --clang-completer --system-libclang   
+  487  cd 
+  488  sudo apt-get autoremove
+  489  sudo apt-get autoclean
+  490  sudo apt-get update
+  491  sudo apt-get upgrade
+  492  sudo apt install libappindicator1 libindicator7 
+  493  sudo dpkg -i  google-chrome-stable_current_amd64.deb
+  494  sudo apt-get -f install 
+  495  sudo tlp start 
+  496  sudo apt install okular
+  497  sudo apt-get install kde-l10n-zhcn
+  498  sudo add-apt-repository ppa:plushuang-tw/uget-stable 
+  499  sudo apt update
+  500  sudo apt install uget 
+  501  sudo apt install aria2
+  502  uget
+  503  which scrot
+  504  sudo apt-get install gimp
+  505  sudo apt-get install chmsee
+  506  sudo apt install deepin-screenshot 
+  507  which scrot
+  508  shutter -s
+  509  sudo apt-get install google-chrome-stable
+  510  cat /proc/sys/vm/swappiness 
+  511  sudo gedit /etc/sysctl.conf
+  512  sudo apt-get install Linux-i686
+  513  sudo apt install preloadsudo apt install preload
+  514  sudo apt install preload
+  515  cd /etc/
+  516  cat fstab
+  517  vi fstab
+  518  sudo vi fstab
+  519  gconf-editor
+  520  sudo apt install gconf-editor
+  521  cd
+  522  gconf
+  523  sudo apt upgrade -d
+  524  gconf-edito
+  525  gconf-editor
+  526  unity-tweak-tool
+  527  gnome-tweaks
+  528  gconf-editor
+  529  sudo apt-get remove gconf-editor
+  530  sudo apt install dconf-editor
+  531  sudo apt-get update
+  532  sudo apt-get upgrade
+  533  which tocmd
+  534  scrot -s 
+  535  sudo apt-get upgrade -d
+  536  ls
+  537  vi .vimrc
+  538  deepin-screenshot
+  539  sudo apt-get update
+  540  deepin-shortcut-viewer
+  541  deepin-screenshot --help
+  542  vi .vimrc
+  543  scrot -s 
+  544  scrot -h
+  545  scrot -s
+  546  ls
+  547  vi .vimrc
+  548  deepin-screenshot
+  549  deepin-screenshot -h
+  550  deepin-screenshot -s
+  551  deepin-screenshot 
+  552  deepin-screenshot --icon
+  553  which deepin-screenshot
+  554  sudo apt-get install ffmpeg
+  555  sudo dpkg -i deepin-scrot_2.0-0deepin_all.deb
+  556  sudo apt-get install -f 
+  557  deepin-scrot
+  558  sudo apt-get update
+  559  sudo apt-get upgrade
+  560  gsettings set org.gnome.desktop.peripherals.touchpad send-events enabled
+  561  gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true
+  562  gsettings set org.gnome.desktop.peripherals.touchpad natural-scroll false
+  563  synclient  tapbutton2=2\nsynclient  tapbutton3=3
+  564  synclient  tapbutton2=2
+  565  sudo gpasswd -a $USER input
+  566  sudo apt-get install libinput-tools
+  567  sudo gem install fusuma
+  568  sudo apt-get install xdotoo
+  569  sudo apt-get install xdotool
+  570  sudo apt get install ruby
+  571  sudo apt install ruby
+  572  fusuma
+  573  sudo ubuntu-drivers autoinstall
+  574  gnome-tweaks
+  575  open .elantech-touchpad_setting.sh
+  576  open .
+  577  vi .bashrc
+  578  open .elantech-touchpad_setting.sh
+  579  sudo pluma .elantech-touchpad_setting.sh
+  580  pluma .elantech-touchpad_setting.sh
+  581  chmod +x .elantech-touchpad_setting.sh
+  582  sudo mv .elantech-touchpad_setting.sh elantech-touchpad_setting.sh
+  583  chmod 777 elantech-touchpad_setting.sh
+  584  . elantech-touchpad_setting.sh
+  585  sh -x elantech-touchpad_setting.sh
+  586  sudo ubuntu-drivers autoinstall
+  587  ubuntu-drivers devices
+  588  sudo apt-get install elantech
+  589  sudo apt-get install genometools
+  590  sudo apt-get install genome-config-touchpad
+  591  sudo apt-get install *touchpad
+  592  sudo apt-get install kde-config-touchpad
+  593  synclient touchpadoff=0
+  594  sudo apt-get install kde-config-touchpad
+  595  sudo vi /etc/default/grub
+  596  sudo apt-get upgrade -d
+  597  udo add-apt-repository ppa:ubuntukylin-members/ukui
+  598  sudo add-apt-repository ppa:ubuntukylin-members/ukui
+  599  uname -a
+  600  uname -r
+  601  history
+  602  synclient -lsynclient -l
+  603  sudo apt install xserver-xorg-input-libinput
+  604  sudo vim /usr/share/X11/xorg.conf.d/90-libinput.conf 
+  605  reboot
+  606  sudo apt-get install --reinstall ubuntu-desktop
+  607  98032150
+  608  reboot
+  609  sudo apt-get install --reinstall ubuntu-desktop
+  610  reboot
+  611  sudo apt install powerline fonts-powerline
+  612  sudo apt install zsh-theme-powerlevel9k
+  613  sudo apt install zsh-syntax-highlighting
+  614  sudo apt install git
+  615  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+  616  mkdir git-test && cd git-test
+  617  git init
+  618  vi .zshrc
+  619  mvim
+  620  man ls
+  621  reboot
+  622  sudo apt-get update
+  623  sudo apt-get upgrade
+  624  sudo apt-get install ffmpeg
+  625  cd ios.wiki
+  626  ls
+  627  . genIndex.sh
+  628  sh genIndex.sh
+  629  vi genIndex.sh
+  630  exit
+  631  cd ios.wiki
+  632  sh -x genIndex.sh
+  633  vi genIndex.sh
+  634  sudo apt-get install language-pack-kde-zh language-pack-kde-zh-base language-pack-zh language-pack-zh-base language-support-zh
+  635  chsh -s /bin/bash
+  636  which shell
+  637  which bash
+  638  ehco $SHELL
+  639  chsh -s /bin/bash
+  640  echo $SHELL
+  641  sudo usermod -s /usr/bin/zsh $(whoami)
+  642  cd ios.wiki
+  643  ls
+  644  which bash
+  645  chsh -s /bin/bash
+  646  reboot
+  647  sudo apt-get update
+  648  sudo apt-get upgrade
+  649  vi .zshrc
+  650  sudo apt-add-repository ppa:kubuntu-ppa/next-backports
+  651  sudo apt-get update
+  652  sudo apt-get dist-upgrade
+  653  sudo apt-get install kubuntu-plasma5-desktop plasma-workspace-wallpapers\n
+  654  sudo apt-get install plasma-desktop plasma-workspace-wallpapers
+  655  sudo add-apt-repository ppa:kubuntu-ppa/backports
+  656  sudo apt update && sudo apt dist-upgrade
+  657  sudo apt update && sudo apt install plasma-desktop
+  658  vi .zshrc
+  659  sudo apt-get install autojump
+  660  source .zsh
+  661  source .zshrc
+  662  vi .zshrc
+  663  git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+  664  source ~/.zshrc
+  665  source .zshrc
+  666  ls
+  667  man
+  668  man alias
+  669  alias 
+  670  ls
+  671  man alias
+  672  man ls
+  673  helllo
+  674  man |\nmanls
+  675  man ls
+  676  cd ios.wiki
+  677  . genIndex.sh
+  678  vi .zshrc
+  679  cd ..
+  680  pwd
+  681  vi .zshrc
+  682  source .zshrc
+  683  vi .zshrc
+  684  source .zshrc
+  685  vi .zshrc
+  686  source .zshrc
+  687  exit
+  688  vi .zshrc
+  689  sudo apt-get update
+  690  sudo apt-get upgrade
+  691  sudo apt-get upgrade --fix-missing
+  692  sudo apt-get install dde
+  693  sudo apt-get install dde -f 
+  694  sudo add-apt-repository ppa:leaeasy/dde
+  695  sudo apt-get update
+  696  sudo apt-get install dde
+  697  sudo apt-get install  deepin-icon-theme
+  698  sudo apt-get install  dde
+  699  sudo add-apt-repository ppa:leaeasy/dde
+  700  sudo apt-get update
+  701  sudo add-apt-repository ppa:leaeasy/dde
+  702  sudo apt-get update 
+  703  sudo apt-get install dde
+  704  sudo add-apt-repository ppa:leaeasy/dde
+  705  sudo apt install dde dde-file-manager
+  706  sudo apt install dde 
+  707  sudo apt update
+  708  sudo apt upgrade
+  709  sudo apt autoremove 
+  710  sudo apt autoclean
+  711  sudo apt-get install dde
+  712  sudo apt-get autor
+  713  sudo apt-get autoremove
+  714  sudo remove-apt-repository ppa:leaeasy/dde
+  715  sudo apt-get remove dde
+  716  which gnome-screenshot
+  717  cd /usr/bin
+  718  sudo mv gnome-screenshot gnome-screenshot.bak
+  719  which d
+  720  which deepin-screenshot
+  721  pwd
+  722  sudo  ln -s  deepin-screenshot --icon gnome-screenshot
+  723  sudo  ln -s  deepin-screenshot  gnome-screenshot
+  724  cd 
+  725  ls
+  726  vi .zshrc
+  727  source .zshrc
+  728  sudo apt-get remove dde --pure
+  729  sudo apt-get --pure remove dde 
+  730  sudo apt-get remove dde --f
+  731  sudo apt-get remove dde 
+  732  sudo apt-get update
+  733  sudo vi /etc/apt/sources.list
+  734  sudo apt-get upgrade
+  735  gn
+  736  gnome-tweaks
+  737  sudo apt-get upgrade
+  738  gnome-tweaks
+  739  sudo apt-get remove plasma
+  740  sudo apt-get remove plasma-desktop
+  741  date
+  742  date +%Y%M%D
+  743  date +%Y_%M_%D
+  744  sudo apt-get autoremove
+  745  date --help
+  746  sudo apt-get autoclean
+  747  sudo apt-get update
+  748  sudo apt-get upgrade
+  749  date +%Y_%m_%d
+  750  date +%Y_%m_%d_%H_%M_%S
+  751  cd 
+  752  vi .vimrc
+  753  deepin-screenshot --icon -s images/`date +%Y_%m_%d_%H_%M_%S`.png
+  754  vi mm.md
+  755  vi .vimrc
+  756  git config --global oh-my-zsh.hide-status 1
+  757  vi .vimrc
+  758  git config --add oh-my-zsh.hide-dirty 1
+  759  vi mm.md
+  760  vi .vim
+  761  vi .vimrc
+  762  vi mm.md
+  763  deepin-screenshot --icon -s images/`date +%Y_%m_%d_%H_%M_%S`.png  && scrot -e 'echo "\![](images/`date +%Y_%m_%d_%H_%M_%S`.png\n\n\n
+  764  vi .vimrc
+  765  vi mm.md
+  766  vi .vimrc
+  767  vi mm.md
+  768  cat .vimrc
+  769  deepin-screenshot --icon -s images/`date +%Y_%m_%d_%H_%M_%S`.png
+  770  sudo apt-get pixmap
+  771  sudo apt-get install gtk2-engines-pixbuf
+  772  reboot
+  773  sudo apt-get remove dde
+  774  sudo apt-get remove dde-session-ui
+  775  sudo apt-get remove dde-file-manager
+  776  sudo apt-get remove plasma-desktop
+  777  sudo apt-get remove plasma-workspace-wallpapers
+  778  sudo apt-get update
+  779  vi mm.md
+  780  cat .vimrc
+  781  vi .vimrc
+  782  vi mm.md
+  783  vi .vimrc
+  784  vi mm.md
+  785  vi .vimrc
+  786  vi mm.md
+  787  cat .vimrc
+  788  vi .vimrc
+  789  vi mm.md
+  790  man ls
+  791  dee
+  792  deepin-screenshot --icon -s images/`date +%Y_%m_%d_%H_%M_%S`.png
+  793  deepin-screenshot  -s images/`date +%Y_%m_%d_%H_%M_%S`.png
+  794  deepin-screenshot  -s images/`date +%Y%m%d%H%M%S`.png
+  795  scrot 
+  796  scrot
+  797  de
+  798  deepin-screenshot  -s images/`date +%Y%m%d%H%M%S`.png
+  799  deepin-screenshot  -h
+  800  deepin-screenshot  -s --no-notification  images/`date +%Y%m%d%H%M%S`.png
+  801  gnome-tweaks
+  802  deepin-screenshot  -s --no-notification  images/`date +%Y%m%d%H%M%S`.png
+  803  vi .vimrc
+  804  sudo apt-get remove deepin-screenshot
+  805  sudo apt-get remove deepin-terminal
+  806  sudo apt-get remove deepin-icon-theme
+  807  sudo apt-get remove deepin-desktop-base
+  808  sudo apt-get remove deepin-gtk-theme
+  809  sudo apt-get remove deepin-scrot
+  810  sudo apt-get remove deepin-notifications 
+  811  sudo apt-get remove deepin-desktop-schemas 
+  812  sudo apt-get remove deepin-icon-theme
+  813  sudo apt-get remove deepin-metacity
+  814  sudo apt-get remove deepin-menu
+  815  sudo apt-get remove deepin-mutter-common
+  816  sudo apt-get remove deepin-metacity-common
+  817  sudo apt-get remove deepin-shortcut-viewer
+  818  sudo apt-get remove deepin-icon-theme -f
+  819  sudo apt-get remove plasma-workspace
+  820  sudo apt-get remove plasma*
+  821  sudo apt-get a
+  822  sudo apt-get autoremove
+  823  sudo apt-get autoclean
+  824  git clone https://github.com/linuxdeepin/deepin-screenshot.git
+  825  cd deepin-screenshot
+  826  qmake ..; make;make install
+  827  qmake ..
+  828  ls
+  829  sh -x update_ts.sh
+  830  cd ..
+  831  rm deepin-screenshot
+  832  rm -rf deepin-screenshot
+  833  sudo apt-get install deepin-screenshot
+  834  echo "deepin-screenshot"
+  835  echo "`deepin-screenshot`"
+  836  vi .vimrc
+  837  vi mm.md
+  838  vi .vimrc
+  839  vi mm.md
+  840  open .vimrc
+  841  pluma .vimrc
+  842  scrot -e 'echo "\![](images/$n)"  && mv $n images && deepin-screenshot --icon -s images/$n'
+  843  vi mm.md
+  844  vi .vimrc
+  845  emulate sh
+  846  sudo emulate bash
+  847  emulate bash
+  848  vi .zshrc
+  849  emulate bash
+  850  sudo emulate bash
+  851  vi 
+  852  emulate bash 
+  853  which shell
+  854  echo $SHELL
+  855  vi .zshr
+  856  vi .zshrc
+  857  echo $SHEll
+  858  env
+  859  emulate bash 
+  860  vi .zshrc
+  861  vi .vimrc
+  862  source .zshrc
+  863  vi .zshrc
+  864  source .zshrc
+  865  vi mm.md
+  866  sudo apt-get remove kde
+  867  sudo apt-get remove kdoctools5
+  868  sudo apt-get remove kdeconnect
+  869  sudo apt-get remove kde-cli-tools
+  870  sudo apt-get remove kde*
+  871  sudo apt-get update
+  872  sudo apt-get upgrade
+  873  gnome-tweaks
+  874  sudo apt-get autoremove
+  875  sudo apt-get autoclean
+  876  pluma .vimrc
+  877  gnome-tweaks
+  878  vi mm.md
+  879  vi .vimrc
+  880  vi mm.md
+  881  vi .vimrc
+  882  vi mm.md
+  883  chmod +x shot.sh
+  884  shot.sh
+  885  sh -x shot.sh
+  886  vi mm.md
+  887  scrot -e 'echo "\![](images/$n)"  && mv $n images'
+  888  scrot -e ' mv $n images'
+  889  scrot -e ' mv $n images' | deepin-screenshot -s
+  890  scrot -e ' mv $n images' | deepin-screenshot $n
+  891  scrot -e ' mv $n images' | deepin-screenshot -s
+  892  scrot -e ' mv $n images' | deepin-screenshot -s images/$n
+  893  scrot -e ' mv $n images' ; deepin-screenshot -s images/$n
+  894  echo scrot -e ' mv $n images' ; deepin-screenshot -s images/$n
+  895  echo " scrot -e ' mv $n images' ; deepin-screenshot -s images/$n"
+  896  echo 'scrot -e ' mv $n images' ; deepin-screenshot -s images/$n'
+  897  vi mm.md
+  898  source .vimrc
+  899  vi mm.md
+  900  vi .vimrc
+  901  vi mm.md
+  902  vi .vimrc
+  903  vi mm.md
+  904  vi .vimrc
+  905  vi mm.md
+  906  history
+  907  deepin-screenshot --icon -s images/`date +%Y_%m_%d_%H_%M_%S`.png
+  908  vi .vimrc
+  909  vi mm.md
+  910  vi .vimrc
+  911  echo "\![](images/$n)"  && mv $n images 
+  912  scrot -e 'echo "\![](images/$n)"  && mv $n images '
+  913  vi mm.md
+  914  deepin-screenshot -s images/
+  915  vi .vimrc
+  916  scrot -e
+  917  scrot
+  918  scrot -e 'deepin-screenshot -s $n'
+  919  source .vimrc
+  920  vi mm.md
+  921  vi .vimrc
+  922  source .vimrc
+  923  vi mm.md
+  924  source .vimrc
+  925  vi .vimrc
+  926  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images'mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images'
+  927  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images' | grep '!\[\]\(images/\d+_scrot.png\)'
+  928  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images' | grep '!\[\]\(images/\d+_scrot.png\)' > tttt
+  929  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images' |  > tttt
+  930  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images'
+  931  vi mm.md
+  932  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images'
+  933  vi mm.md
+  934  mkdir images ; scrot -e 'deepin-screenshot -s $n && echo "\![](images/$n)"  && mv $n images' |  > temp
+  935  cat temp
+  936  vi mm.md
+  937  mkdir images ; scrot -e 'deepin-screenshot -s $n && "\![](images/$n)"  && mv $n images'<CR> > ~/temp
+  938  mkdir images ; scrot -e 'deepin-screenshot -s $n && "\![](images/$n)"  && mv $n images' > ~/temp
+  939  vi .vimrc
+  940  vi mm.md
+  941  pluma .vimrc
+  942  vi mm.md
+  943  mkdir images ; scrot -e 'deepin-screenshot -s $n /dev/null && "\![](images/$n)"  && mv $n images' > ~/temp
+  944  mkdir images ; scrot -e 'deepin-screenshot -s $n > /dev/null && "\![](images/$n)"  && mv $n images' > ~/temp
+  945  mkdir images ; scrot -e 'deepin-screenshot -s $n  && "\![](images/$n)" > /dev/null  && mv $n images' > ~/temp
+  946  mkdir images ; scrot -e 'deepin-screenshot >> /dev/null  -s $n  && "\![](images/$n)" > /dev/null  && mv $n images' > ~/temp
+  947  mkdir images ; scrot -e 'deepin-screenshot >> /dev/null  -s $n  && "\![](images/$n)" 2> /dev/null  && mv $n images' > ~/temp
+  948  mkdir images ; scrot -e 'deepin-screenshot -s $n  && "\![](images/$n)" 2> /dev/null  && mv $n images' > ~/temp
+  949  mkdir images ; scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp
+  950  lsmkdir images ; scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  951  mkdir images ; scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp   
+  952  vi mm.md
+  953  mkdir images ; scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp   
+  954  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null ; <Esc>:r cat temp ~/temp
+  955  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  956  scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null\n
+  957  scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  958  scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)"  && mv $n images' > ~/temp 2>/dev/null
+  959  scrot -e 'deepin-screenshot 2>/dev/null -s $n  && "\![](images/$n)"  && mv $n images' > ~/temp 
+  960  scrot -e 'deepin-screenshot  -s $n  && "\![](images/$n)"  && mv $n images' > ~/temp 
+  961  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  962  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 
+  963  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)" 2>/dev/null  && mv $n images' 1> ~/temp 2>/dev/null
+  964  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/nullmkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  965  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  966  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && "\![](images/$n)"  && mv $n images' > ~/temp 
+  967  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && echo "\![](images/$n)"  && mv $n images' > ~/temp 
+  968  mkdir images 2>/dev/null; scrot -e 'deepin-screenshot  -s $n  2>/dev/null && echo "\![](images/$n)" 2>/dev/null  && mv $n images' > ~/temp 2>/dev/null
+  969  vi mm.md
+  970  vi .vimrc
+  971  vi mm.md
+  972  vi .vimrc
+  973  vi mm.md
+  974  vi .vimrc
+  975  vi mm.md
+  976  gnome-terminal --full-screen
+  977  sudo apt-get install gnome-terminal --full-screen
+  978  mate-terminal -h
+  979  mate-terminal --help-window-options
+  980  mate-terminal --full-screen
+  981  mate-terminal --help-window-options
+  982  mate-terminal --maximize
+  983  exit
+  984  vi .vimrc
+  985  open .
+  986  vi .bashrc
+  987  sudo apt-get update
+  988  sudo apt-get upgrade
+  989  sudo rm -rf ../qingkong.tar.gz
+  990  sudo apt-get autoremove 
+  991  sudo apt-get autoclean
+  992  man ls
+  993  man man
+  994  sudo apt-get  install gnome
+  995  sudo apt-get update
+  996  sudo apt-get  install gnome-shell  
+  997  sudo apt-get  install  gnome-panel  
+  998  sudo apt-get  install   gnome-menus
+  999  sudo apt-get  install  gnome-session
+ 1000  sudo apt-get  install  gdm
+ 1001  dpkg -l|grep gdm
+ 1002  sudo apt-get install gnome-terminal
+ 1003  sudo apt-get install gdm
+ 1004  sudo apt-get install gdm 
+ 1005  sudo apt-get  install  gdm
+ 1006  sudo apt-get  install gnome  
+ 1007  reboot
+ 1008  sudo add-apt-repository ppa:daniel-marynicz/filemanager-actions 
+ 1009  sudo apt-get install filemanager-actions-nautilus-extension 
+ 1010  sudo apt-get install Nautilus
+ 1011  sudo apt-get update
+ 1012  sudo add-apt-repository ppa:vascofalves/gnome-backports
+ 1013  sudo apt-get update
+ 1014  sudo apt-get install nautilus
+ 1015  sudo apt-get update
+ 1016  sudo apt-get upgrade
+ 1017  sudo apt-get upgrade --fix-missing
+ 1018  vi mm.md
+ 1019  vi .vimrc
+ 1020  vi mm.md
+ 1021  vi .vimrc
+ 1022  vi mm.md
+ 1023  sudo apt-get install nautilus
+ 1024  vi mm.md
+ 1025  mate-terminal --help
+ 1026  mate-terminal --help-window-options
+ 1027  mate-terminal --maximize
+ 1028  mate-terminal --minimize
+ 1029  mate-terminal --minmize
+ 1030  mate-terminal --help-window-options
+ 1031  mate-terminal --geometry=0x0
+ 1032  mate-terminal --geometry=0x0+1366+768
+ 1033  mate-terminal --geometry=0x0+1366+790
+ 1034  mate-terminal --geometry=0x0+0+0
+ 1035  mate-terminal --geometry=0x0+1366+800
+ 1036  mate-terminal --geometry=0x0+1366+1000
+ 1037  mate-terminal --geometry=0x0+1366+800
+ 1038  sudo apt-get install gnome-terminal
+ 1039  gnome-terminal
+ 1040  sudo apt-get install terminator
+ 1041  Terminator\t
+ 1042  sudo apt-get install Terminator\t
+ 1043  terminator
+ 1044  sudo apt-get install xterm\t
+ 1045  xterm
+ 1046  gnome-tweaks
+ 1047  sudo apt-get install gtk 
+ 1048  sudo apt-get install shell
+ 1049  sudo apt-get install Shell
+ 1050  gnome-terminal
+ 1051  vi .vimrc
+ 1052  cd k-vim
+ 1053  sh -x install.sh
+ 1054  vi mm.md
+ 1055  ls
+ 1056  sudo apt-get install emacs
+ 1057  sudo apt-get install update
+ 1058  sudo apt-get  update
+ 1059  sudo apt-get  upgrade
+ 1060  gnome-tweaks
+ 1061  calc
+ 1062  cal
+ 1063  calc
+ 1064  vi .bashrc
+ 1065  calc
+ 1066  open .
+ 1067  vi .zshrc
+ 1068  source .bashrc
+ 1069  open .
+ 1070  calc
+ 1071  reboot
+ 1072  vi .zshrc
+ 1073  source .zshrc
+ 1074  sudo apt-get update
+ 1075  vi mm.md
+ 1076  sudo apt-get install nautilus
+ 1077  sudo apt-get install vim-gnome
+ 1078  vi 
+ 1079  :q
+ 1080  vim 
+ 1081  sudo apt-get install gnome-terminal
+ 1082  gnome-terminal
+ 1083  which gnome-terminal
+ 1084  gnome-terminal
+ 1085  vi 
+ 1086  sudo apt-get install vim-gnome
+ 1087  vi 
+ 1088  fg
+ 1089  vi .vimrc
+ 1090  vi mm.md
+ 1091  vi .vimrc
+ 1092  vi mm.md
+ 1093  vi .vimrc
+ 1094  vi mm.md
+ 1095  ls&
+ 1096  fg
+ 1097  sudo apt-get install dconf
+ 1098  sudo apt-get install dconf-tools
+ 1099  gsettings set org.mate.terminal click-action 'minimize'
+ 1100  gsettings set org.mate.terminal  'minimize'
+ 1101  mate-terminal --help
+ 1102  mate-terminal --help-all
+ 1103  mate-terminal --help-window-options
+ 1104  mate-terminal min
+ 1105  mate-terminal -h
+ 1106  mate-terminal --display
+ 1107  mate-terminal --help-sm-client
+ 1108  mate-terminal --help-gtk
+ 1109  mate-terminal --help-window
+ 1110  mate-terminal --help-window-options
+ 1111  mate-terminal --window
+ 1112  mate-terminal --role
+ 1113  mate-terminal --geometry=0x0
+ 1114  mate-terminal --active --help
+ 1115  sudo apt-get install build-essential libgl1-mesa-dev
+ 1116  sudp apt-get install libgtk2.0-dev and pkg-config
+ 1117  sudo apt-get install libgtk2.0-dev and pkg-config
+ 1118  cd /usr/local
+ 1119  ls
+ 1120  cd include
+ 1121  ls
+ 1122  cd ../lib
+ 1123  ls
+ 1124  cd 
+ 1125  sudp apt-get install vnc
+ 1126  sudo apt-get install vnc
+ 1127  sudo apt-get update
+ 1128  pkg-config --libs --cflags opencv
+ 1129  cd /usr/lib
+ 1130  ls
+ 1131  cd pkgconfig
+ 1132  ls
+ 1133  cd 
+ 1134  echo $PKG_CONFIG_PATH
+ 1135  echo ${OPENCV_HOME}
+ 1136  ls
+ 1137  sudo apt-get install xorg
+ 1138  sudo apt-get install gdm
+ 1139  sudo apt-get install gnome-core
+ 1140  sudo apt-get install ubuntu-desktop
+ 1141  sudo -i 
+ 1142  sudo -i
+ 1143  cd gnome-desktop-2.91.0
+ 1144  ./autogen.sh
+ 1145  configure --help
+ 1146  ./configure --prefix=/usr/local/gnome
+ 1147  wget http://ftp.gnome.org/pub/gnome/sources/intltool/0.40/intltool-0.40.6.tar.gz
+ 1148  tar zxvf intltool-0.40.6.tar.gz
+ 1149  cd intltool-0.40.6
+ 1150  ./configure
+ 1151  sudo make && make install
+ 1152  make
+ 1153  make install
+ 1154  sudo  make install
+ 1155  cd ..
+ 1156  ./configure
+ 1157  make
+ 1158  make install
+ 1159  cd intltool-0.40.6
+ 1160  ./configure
+ 1161  make
+ 1162  make install
+ 1163  sudo make install
+ 1164  cd gnome-desktop-2.91.0
+ 1165  make clean
+ 1166  sudo make clean
+ 1167  cd ..
+ 1168  rm -rf gnome-desktop-2.91.0
+ 1169  sudo apt-get update
+ 1170  sudo apt-get upgrade
+ 1171  sudo apt-get upgrade -d
+ 1172  sudo apt-get autoclean
+ 1173  sudo apt-get autoremove
+ 1174  sudo apt-get update
+ 1175  sudo apt-get upgrade
+ 1176  which gnome-books
+ 1177  sudo apt-get update
+ 1178  sudo apt-get upgrade
+ 1179  sudo apt-get upgrade -d
+ 1180  sudo apt-get install ffmpeg
+ 1181  sudo apt-get install python3.6-dev
+ 1182  sudo apt-get install python
+ 1183  sudo apt-get upgrade
+ 1184  sudo apt-get install libopenexr-dev
+ 1185  sudo apt-get upgrade
+ 1186  ls
+ 1187  ls -al
+ 1188  ./Anaconda3-5.3.1-Linux-x86_64.sh
+ 1189  export PATH=~/anaconda3/bin:$PATH
+ 1190  echo "export PATH=~/anaconda3/bin:$PATH" >> /etc/profile
+ 1191  sudo echo "export PATH=~/anaconda3/bin:$PATH" >> /etc/profile
+ 1192  sudo -c echo "export PATH=~/anaconda3/bin:$PATH" >> /etc/profile
+ 1193  sudo -i
+ 1194  su -s  echo "export PATH=~/anaconda3/bin:$PATH" >> /etc/profile
+ 1195  sudo  echo "export PATH=~/anaconda3/bin:$PATH" >> /etc/profile
+ 1196  su -s
+ 1197  su 
+ 1198  su -s
+ 1199  sudo -i
+ 1200  cat /etc/profile
+ 1201  source ~/.bashrc
+ 1202  logout
+ 1203  sudo ubuntu-drivers autoinstall
+ 1204  sudo logout
+ 1205  sudo systemctl restart gdm.service
+ 1206  conda update conda
+ 1207  conda update anaconda
+ 1208  sudo conda update anaconda
+ 1209  source ~/.bashrc
+ 1210  ls
+ 1211  rm -rf anaconda3
+ 1212  ./Anaconda3-5.3.1-Linux-x86_64.sh
+ 1213  cd /usr/local
+ 1214  mkdir anaconda3
+ 1215  sudo mkdir anaconda3
+ 1216  ./Anaconda3-5.3.1-Linux-x86_64.sh
+ 1217  cd 
+ 1218  ./Anaconda3-5.3.1-Linux-x86_64.sh
+ 1219  sh -x ./Anaconda3-5.3.1-Linux-x86_64.sh
+ 1220  cd /usr/local
+ 1221  rm -rf anaconda3
+ 1222  sudo rm -rf anaconda3
+ 1223  cd 
+ 1224  sh -x Anaconda3-5.3.1-Linux-x86_64.sh
+ 1225  sh Anaconda3-5.3.1-Linux-x86_64.sh
+ 1226  sudo sh -x Anaconda3-5.3.1-Linux-x86_64.sh
+ 1227  ls
+ 1228  chmod +x Anaconda3-5.3.1-Linux-x86_64.sh
+ 1229  Anaconda3-5.3.1-Linux-x86_64.sh
+ 1230  sh Anaconda3-5.3.1-Linux-x86_64.sh
+ 1231  sudo sh Anaconda3-5.3.1-Linux-x86_64.sh
+ 1232  sudo apt-get install laptop-mode-tools
+ 1233  dpkg -l | grep laptop-mode-tools
+ 1234  cat /proc/sys/vm/laptop_mode
+ 1235  sudo laptop_mode start 
+ 1236  cat /proc/sys/vm/laptop_mode
+ 1237  sudo laptop_mode start 
+ 1238  sudo ubuntu-drivers autoinstall
+ 1239  dpkg -l | grep laptop-mode-tools
+ 1240  cat /proc/sys/vm/laptop_mode
+ 1241  sudo gedit /etc/default/acpi-support
+ 1242  sudo pluma /etc/default/acpi-support
+ 1243  sudo pluma /etc/laptop-mode/laptop-mode.conf 
+ 1244  cd /etc
+ 1245  cd laptop-mode
+ 1246  cp laptop-mode.conf laptop-mode.conf.bak
+ 1247  sudo cp laptop-mode.conf laptop-mode.conf.bak
+ 1248  ls
+ 1249  sudo pluma /etc/laptop-mode/laptop-mode.conf 
+ 1250  cd
+ 1251  sudo laptop_mode start
+ 1252  cat /proc/sys/vm/laptop_mode
+ 1253  dconf reset -f /org/gnome/
+ 1254  sudo apt-get update
+ 1255  sudo apt-get upgrade
+ 1256  sudo apt-get upgrade -d
+ 1257  ls
+ 1258  man ls
+ 1259  gnome-tw
+ 1260  gnome-tweaks
+ 1261  sudo apt-get update
+ 1262  sudo apt-get upgrade
+ 1263  sudo apt-get upgrade -d
+ 1264  sudo apt-get autoremove
+ 1265  sudo apt-get autoclean
+ 1266  ps -aux
+ 1267  kill 13092
+ 1268  ls
+ 1269  cd '/home/qingkong/桌面/font' 
+ 1270  ls
+ 1271  sudo cp -r ./* /usr/share/fonts
+ 1272  sudo mkfontscale
+ 1273  sudo mkfontdir
+ 1274  sudo fc-cache -fv
+ 1275  cd k-vim
+ 1276  sh -x install.sh
+ 1277  cd k-vim
+ 1278  sh -x install.sh
+ 1279  cd k-vim
+ 1280  sh -x install.sh
+ 1281  sudo apt-get update
+ 1282  sudo apt-get upgrade
+ 1283  sudo do-release-upgrade -d
+ 1284  sudo do-release-upgrade
+ 1285  sudo update-manager -d -c
+ 1286  sudo do-release-upgrade -d
+ 1287  sudo apt-get update
+ 1288  sudo do-release-upgrade -d
+ 1289  sudo apt-get upgrade -d
+ 1290  sudo apt-get --fix-broken install
+ 1291  sudo apt-get upgrade -d
+ 1292  sudo do-release-upgrade -d
+ 1293  sudo do-release-upgrade
+ 1294  cd k-vim
+ 1295  cp -rf  .xvimrc .bashrc . ~
+ 1296  cp .zshrc.ubuntu ~/.zshrc
+ 1297  source .zshrc
+ 1298  cd k-vim
+ 1299  sh -x install.sh
+ 1300  sudo apt-get install clang
+ 1301  sudo apt-get install llvm
+ 1302  sudo apt-get remove --purge vi vim-tiny vim vim-runtime gvim vim-common vim-gui-common vim-nox
+ 1303  sudo apt-get remove vim gvim
+ 1304  git clone https://github.com/vim/vim.git
+ 1305  sudo apt-get install libncurses5-dev python-dev python3-dev libgtk3.0-dev libatk1.0-dev libbonoboui2-dev libcairo2-dev libx11-dev libxpm-dev libxt-dev\n
+ 1306  sudo apt-get install libncurses5-dev
+ 1307  sudo apt-get install  python-dev
+ 1308  sudo apt-get install  python-dev python3-dev libgtk3.0-dev  libatk1.0-dev libbonoboui2-dev  libcairo2-dev libx11-dev libxpm-dev  libxt-dev 
+ 1309  sudo apt-get install  python-dev 
+ 1310  sudo apt-get install  python3-dev
+ 1311  sudo apt-get install libgtk3.0-dev
+ 1312  sudo apt install libncurses5-dev libgnome2-dev libgnomeui-dev libgtk2.0-dev libatk1.0-dev libbonoboui2-dev libcairo2-dev libx11-dev libxpm-dev libxt-dev python-dev python3-dev ruby-dev lua5.1 liblua5.1-dev libperl-dev git
+ 1313  sudo apt install libncurses5-dev libgnome2-dev libgnomeui-dev libgtk2.0-dev libatk1.0-dev libbonoboui2-dev libcairo2-dev libx11-dev libxpm-dev libxt-dev python-dev python3-dev ruby-dev lua5.1 liblua5.1-dev libperl-dev git --fix-missing
+ 1314  python --version
+ 1315  whcih python
+ 1316  which  python
+ 1317  sudo ./confiure --with-features=hue --enable-multibyte --enable-rubyinterp --enable-pythoninterp --enable-python3interp --enable-luainterp --enable-cscope --enable-ui=tk3 --enable-perlinterp --with-python-confi-dir=/usr/lib/python2.7/confi-x86_64-linux-nu/ --with-python3-confi-dir=/usr/lib/python3.6/confi-3.6m-x86_64-linux-nu/ --prefix=/usr/local
+ 1318  cd vim
+ 1319  sudo ./configure --with-features=huge --enable-multibyte --enable-rubyinterp --enable-pythoninterp --enable-python3interp --enable-luainterp --enable-cscope --enable-gui=gtk3 --enable-perlinterp --with-python-config-dir=/usr/lib/python2.7/config-x86_64-linux-gnu/ --with-python3-config-dir=/usr/lib/python3.6/config-3.6m-x86_64-linux-gnu/ --prefix=/usr/local
+ 1320  sudo apt-get install python3
+ 1321  sudo apt-get install python
+ 1322  sudo make
+ 1323  sudo make install
+ 1324  which vi
+ 1325  which vim
+ 1326  cd 
+ 1327  wchich vi
+ 1328  which vim
+ 1329  vi .bashrc
+ 1330  pluma .bashrc
+ 1331  pluma .zshrc
+ 1332  cd k-vim
+ 1333  cp -rf .zshrc.ubuntu ~/.zshrc
+ 1334  source .zshrc
+ 1335  vi 
+ 1336  vim
+ 1337  cd 
+ 1338  which vim
+ 1339  vi .zshrc
+ 1340  pluma .bashrc
+ 1341  vi .zshrc
+ 1342  pluma .zshrc
+ 1343  vi 
+ 1344  source .zshrc
+ 1345  which vi
+ 1346  source .zshrc
+ 1347  which vi
+ 1348  which vim
+ 1349  vim
+ 1350  which vim
+ 1351  which vi
+ 1352  vi 
+ 1353  cd k-vim
+ 1354  sh -x install.sh
+ 1355  history
+ 1356  sudo npm update
+ 1357  cd 
+ 1358  vi .vimrc
+ 1359  sudo apt-get install vim
+ 1360  vi
+ 1361  sudo apt-get install vim-gtk
+ 1362  sudo apt-get install cscope
+ 1363  sudo apt-get install diffutils
+ 1364  gvim
+ 1365  sudo rm .gtkrc-2.0
+ 1366  gvim
+ 1367  cd k-vim
+ 1368  ls
+ 1369  cat 安装说明.sh
+ 1370  cp -r ~/.vim/delimitMate.vim ~/.vim/bundle/delimitMate/plugin/
+ 1371  cp -r ~/.vim/NERD_commenter.vim ~/.vim/bundle/nerdcommenter/plugin/
+ 1372  cp -r ~/.vim/NERD_tree.vim ~/.vim/bundle/nerdtree/plugin/\n
+ 1373  vim
+ 1374  gvim
+ 1375  vi .zshrc
+ 1376  sudo apt-get install vim-full
+ 1377  sudo apt install powerline fonts-powerline
+ 1378  sudo apt install zsh-syntax-highlighting
+ 1379  sudo apt install powerline fonts-powerline
+ 1380  sudo apt install zsh-theme-powerlevel9k
+ 1381  sudo apt install zsh-syntax-highlighting
+ 1382  sudo apt-get install libncurses5-dev libgnome2-dev libgnomeui-dev \\n  libgtk2.0-dev libatk1.0-dev libbonoboui2-dev \\n  libcairo2-dev libx11-dev libxpm-dev libxt-dev
+ 1383  sudo apt-get install ruby-dev
+ 1384  vi 
+ 1385  sudo apt install libncurses5-dev libgnome2-dev libgnomeui-dev \\nlibgtk2.0-dev libatk1.0-dev libbonoboui2-dev \\nlibcairo2-dev libx11-dev libxpm-dev libxt-dev python-dev \\npython3-dev ruby-dev lua5.1 liblua5.1-dev libperl-dev git
+ 1386  sudo apt-get remove vim vim-gtk gvim 
+ 1387  sudo apt-get remove vim vim-gtk gvim vim-gtk2 vim-gtk3
+ 1388  git clone https://github.com/vim/vim.git
+ 1389  cd vim
+ 1390  ./configure --with-features=huge \\n            --enable-multibyte \\n\t    --enable-rubyinterp=yes \\n\t    --enable-pythoninterp=yes \\n\t    --with-python-config-dir=/usr/lib/python2.7/config \ # pay attention here check directory correct\n\t    --enable-python3interp=yes \\n\t    --with-python3-config-dir=/usr/lib/python3.5/config \\n\t    --enable-perlinterp=yes \\n\t    --enable-luainterp=yes \\n            --enable-gui=gtk2 \\n            --enable-cscope \\n\t   --prefix=/usr/local
+ 1391  ./configure --with-features=huge \\n            --enable-multibyte \\n\t    --enable-rubyinterp=yes \\n\t    --enable-pythoninterp=yes \\n\t    --with-python-config-dir=/usr/lib/python2.7/config \\n\t    --enable-python3interp=yes \\n\t    --with-python3-config-dir=/usr/lib/python3.5/config \\n\t    --enable-perlinterp=yes \\n\t    --enable-luainterp=yes \\n            --enable-gui=gtk2 \\n            --enable-cscope \\n\t   --prefix=/usr/local
+ 1392  make VIMRUNTIMEDIR=/usr/local/share/vim/vim81
+ 1393  sudo make VIMRUNTIMEDIR=/usr/local/share/vim/vim81
+ 1394  sudo make install
+ 1395  which vi
+ 1396  which vim
+ 1397  vim  --version
+ 1398  cd 
+ 1399  cd k-vim
+ 1400  cd ~ && rm -rf .vim .vimrc .vimrc.bundles && cd -
+ 1401  cd 
+ 1402  sudo apt-get install coreutils
+ 1403  dircolors --print-database > ~/.dir_colors
+ 1404  cd ~/.oh-my-zsh/custom/plugins
+ 1405  git clone git://github.com/zsh-users/zsh-syntax-highlighting.git
+ 1406  cd 
+ 1407  cd k-vim
+ 1408  sh -x install.sh
+ 1409  cd
+ 1410  sudo apt-get install gnome-tweak-tool
+ 1411  gnome-tweak
+ 1412  gnome-tweak-tool
+ 1413  sudo apt-get install gnome-tweak-tool
+ 1414  gnome-tweak-tool
+ 1415  source .zshrc
+ 1416  gnome-tweaks
+ 1417  sudo apt-get install gnome-tweak-tool
+ 1418  gnome-tweaks
+ 1419  sudo apt-get emacs
+ 1420  sudo apt-get update
+ 1421  sudo apt-get upgrade
+ 1422  sudo apt-get install build-essential cmake unzip pkg-config
+ 1423  sudo apt-get install libjpeg-dev libpng-dev libtiff-dev
+ 1424  sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+ 1425  sudo apt-get install libxvidcore-dev libx264-dev
+ 1426  sudo apt-get install libgtk-3-dev
+ 1427  sudo apt-get install -f 
+ 1428  sudo apt-get install -f libgtk-3-dev
+ 1429  sudo apt-get install libgtk-3-dev
+ 1430  sudo apt-get install build-essential
+ 1431  sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+ 1432  sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libdc1394-22-dev 
+ 1433  sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev liblapacke-dev
+ 1434  sudo apt-get install libxvidcore-dev libx264-dev
+ 1435  sudo apt-get install libatlas-base-dev gfortran
+ 1436  sudo apt-get install ffmpeg
+ 1437  sudo apt-get install libopencv-dev
+ 1438  sudo apt-get update
+ 1439  cd release
+ 1440  cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
+ 1441  make -j4
+ 1442  history
+ 1443  sudo apt-get update
+ 1444  gnome-tweaks
+ 1445  sudo apt-get upgrade
+ 1446  dpkg -i kylin-video_1.1.0-2_amd64.deb
+ 1447  sudo dpkg -i kylin-video_1.1.0-2_amd64.deb
+ 1448  sudo apt-get upgrade
+ 1449  sudo apt-get install stardic
+ 1450  sudo apt install stardict
+ 1451  chmod 755 qt-opensource-linux-x64-5.12.0.run
+ 1452  ./qt-opensource-linux-x64-5.12.0.run
+ 1453  wget http://download.huzheng.org/zh_CN/stardict-oxford-gb-2.4.2.tar.bz2 
+ 1454  wget http://download.huzheng.org/zh_CN/stardict-langdao-ec-gb-2.4.2.tar.bz2
+ 1455  wget http://download.huzheng.org/zh_CN/stardict-langdao-ce-gb-2.4.2.tar.bz2
+ 1456  sudo apt-get install libgtk-3-dev
+ 1457  wget http://download.huzheng.org/zh_CN/stardict-DrEye4in1-2.4.2.tar.bz2
+ 1458  sudo apt-get install libatlas-base-dev gfortran
+ 1459  sudo apt-get install python3-dev
+ 1460  for f in stardict*.tar.bz2; do sudo tar -jxvf $f -C /usr/share/stardict/dic; done
+ 1461  sudo tar -xjvf WyabdcRealPeopleTTS.tar.bz2 -C /usr/share/
+ 1462  sudo apt-get install libatlas-base-dev gfortran
+ 1463  sudo apt-get install python3-dev
+ 1464  cd opencv-3.4.1
+ 1465  sudo apt-get install libopencv-dev
+ 1466  sudo apt-get update
+ 1467  mkdir release
+ 1468  cd release
+ 1469  cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
+ 1470  make -j4
+ 1471  sudo tar -xjvf WyabdcRealPeopleTTS.tar.bz2 -C /usr/share/
+ 1472  cp -rf ~/下载/WyabdcRealPeopleTTS.tar.bz2 ./
+ 1473  sudo tar -xjvf WyabdcRealPeopleTTS.tar.bz2 -C /usr/share/
+ 1474  sudo make install
+ 1475  sudo ldconfig
+ 1476  exit
+ 1477  sudo apt-get update
+ 1478  sudo apt-get upgrade
+ 1479  sudo apt autoremove'
+ 1480  sudo apt autoremove
+ 1481  sudo apt autoclean
+ 1482  sudo apt install vim-gtk
+ 1483  ./qt-opensource-linux-x64-5.12.0.run
+ 1484  wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -\n
+ 1485  sudo add-apt-repository 'deb https://typora.io/linux ./'
+ 1486  \nsudo apt-get update
+ 1487  sudo apt-get install typora
+ 1488  sudo apt-get install typora --fix-missing
+ 1489  sudo apt-get install typora 
+ 1490  sudo apt-get install typora --fix-missing
+ 1491  sudo apt-get update
+ 1492  sudo apt-get install typora 
+ 1493  ./qt-opensource-linux-x64-5.12.0.run
+ 1494  sudo apt-get install typora --fix-missing
+ 1495  sudo dpkg -i kylin-video_1.1.0-2_amd64.deb
+ 1496  sudo apt-get upgrade
+ 1497  kylin-video
+ 1498  sudo dpkg -i kylin-video_1.1.0-2_amd64.deb
+ 1499  sudo dpkg -i pandoc-2.5-1-amd64.deb pandoc-2.5-1-amd64.deb
+ 1500  sudo apt-get install  texlive
+ 1501  sudo apt-get install  texlive --fix-missing
+ 1502  ./qt-opensource-linux-x64-5.11.2.run
+ 1503  cd /home
+ 1504  sudo rm -rf qingkong.tar.gz
+ 1505  sudo dpkg -i kylin-video_1.1.0-2_amd64.deb
+ 1506  sudo apt-get install kylin-video
+ 1507  sudo dpkg -i kylin-video_1.1.0-2_amd64.deb
+ 1508  sudo apt-get update
+ 1509  sudo apt-get upgrade
+ 1510  kylin-video
+ 1511  sudo apt-get update
+ 1512  sudo apt-get upgrade
+ 1513  history >> ~/tttt
+ 1514  vi .zshrc
+ 1515  cd /usr/share/applications
+ 1516  ls
+ 1517  sudo vi mate-terminal.desktop
+ 1518  tar -zcvf qingkong.tar.gz qingkong
+ 1519  sudo tar -zcvf qingkong.tar.gz qingkong
+ 1520  sudo rm -rf qingkong.tar.gz
+ 1521  ls
+ 1522  cd qingkong
+ 1523  ls
+ 1524  sudo rm -rf Qt5.11.2
+ 1525  ls
+ 1526  cd ls
+ 1527  apt-get --help
+ 1528  okular --help
+ 1529  cd .. 
+ 1530  ls
+ 1531  sudo tar -zcvf qingkong.tar.gz qingkong
+ 1532  source .zshrc
+ 1533  sudo apt install powerline fonts-powerline
+ 1534  sudo apt install zsh-theme-powerlevel9k
+ 1535  sudo apt install zsh-syntax-highlighting
+ 1536  sudo apt-get install clang
+ 1537  sudo apt-get install llvm
+ 1538  sudo apt-get install ffmpeg
+ 1539  sudo apt-get  update
+ 1540  sudo apt-get  upgrade
+ 1541  which vi
+ 1542  which vim
+ 1543  mv /usr/bin/vi vi.bak
+ 1544  sudo mv /usr/bin/vi vi.bak
+ 1545  which vi
+ 1546  sudo apt-get install git
+ 1547  sudo apt-get install git --fix-missing
+ 1548  which git
+ 1549  sudo apt-get  upgrade
+ 1550  git clone git@github.com:universal-ctags/ctags.git
+ 1551  cd ctags
+ 1552  ./autogen.sh
+ 1553  sudo apt-get install autoconf automake libtool
+ 1554  sudo apt-get install libffi-dev
+ 1555  sudo apt-get install pkg-config
+ 1556  sudo apt-get install build-essential scons make cmake python3
+ 1557  sudo apt-get install build-essential scons make cmake python3 --fix-missing
+ 1558  ./autogen.sh
+ 1559  ./configure --prefix=/usr/local
+ 1560  make 
+ 1561  make install-
+ 1562  make install
+ 1563  sudo make install
+ 1564  which ctags
+ 1565* git clone git@github.com:qingkong1998/software.git
+ 1566* git status
+ 1567* cd ..
+ 1568* cd software
+ 1569* git status
+ 1570* git add .
+ 1571* git commit -m "添加了dic星际译王词库和font字体补丁powerline for zsh"
+ 1572* git push 
